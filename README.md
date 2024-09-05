@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning inglês
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me: ferclark977@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ela/dela
+- ⚡ Fun fact: gosto de cozinhar
 
 <!---
 fernanda9785/fernanda9785 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
